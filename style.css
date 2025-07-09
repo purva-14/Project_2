@@ -1,0 +1,48 @@
+
+body{
+    background-color: rgb(11, 11, 19);
+    margin-top: 85px;
+    margin-left: 425px;
+    
+}
+.container{
+    height: 240px;
+    width: 483px;
+    background-color: rgb(233, 233, 216);
+    padding: 20px;
+    border-radius: 10px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+
+}
+.heading{
+    position: fixed;
+    top: 110px;
+    margin: 0px;
+    margin-bottom: 15px;
+    color: rgb(214, 164, 99);
+    font-size: 24px;
+}
+.btn{
+    /* padding: px 20px; */
+    border:2px solid black;
+    border-radius: 23px;
+    background-color: rgb(20, 20, 29);
+    color: white;
+    cursor: pointer;
+    font-size: 16px;
+    align-self: center;
+    margin-top: 142px;
+    width: 154px;
+   
+
+}
+.quote{
+    position: fixed;
+    font-size: 18px;
+    color: rgb(16, 44, 44);
+    text-align: center;
+    min-height: 90px;
+    margin-top: 95px;
+}
